@@ -1,0 +1,360 @@
+*{
+    color: #fff;
+}
+.sitemainbody{
+    width: 1440px;
+    height: 900px;
+    background-image: url("images/bgc.png") ;
+    background-size: cover;
+    margin: 0 auto;
+}
+.top-navigation {
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.body{
+    width: 1140px;
+    margin: 0 auto;
+}
+.main-menu{
+    display: flex;
+    justify-content: space-around; 
+    list-style: none;
+    border: 1px solid #fff;  
+    border-left: none;
+    border-right: none;
+}
+
+.main-menu li{
+    border-right: 1px solid #fff;
+    padding: 15px 100px;
+}
+
+.main-menu li:last-child{
+    border-right: none;
+}
+
+.buttons button{
+    padding: 15px 30px;
+    border: none;
+    background-color: #998431;
+}
+.buttons{
+    margin-top: 500px;
+    margin-bottom: 150px;
+    display: flex;
+    justify-content: center;
+}
+.button1{
+
+    margin-right: 68px;
+}
+.blacksection{
+    height: 750px;
+    width: 1440px;
+    margin: 0 auto;
+    background-color: #282828;
+    position: relative;
+}
+.box{
+    border: 3px solid #C4C4C4;
+    height: 550px;
+    width: 1140px;
+    position: absolute;
+    top: 100px;
+    left: 150px;
+}
+.header{
+
+    padding: 0 auto;
+    margin-top: 60px;
+    text-align: center;
+}
+.header p{
+    font-size: 36px;
+}
+
+.line{
+    width: 160px;
+    border: 1px solid #FFFFFF;;
+    margin-top: 40px;
+    margin:0 auto;
+}
+
+.textcontent{
+    width: 733px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.textcontent p{
+    font-size: 16px;
+    text-align: center;
+}
+.winepng{
+    width: 160px;
+    height: 160px;
+    margin: 0 auto;
+}
+.winepng >img{
+    width: 160px;
+    margin-top: 40px;
+
+}
+
+.yellowsection{
+    width: 1440px;
+    height: 1038px;
+    background-color: #E6E3C4;
+    margin: 0 auto;
+    position: relative;
+}
+
+.infobox{
+    width: 1140px;
+    height: 878px;
+    position: absolute;
+    top: 80px;
+    left: 150px;
+    border: 1px solid #998431;
+    border-left: none;
+    border-right: none;
+    display: flex;
+    justify-content: space-between;
+}
+.photos{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.block2{
+    margin-top: 60px;
+}
+.yelheader{
+    font-size: 36px;
+    margin-top: 30px;
+}
+
+.infobox p{
+    color: #282828;
+}
+.block1{
+    margin-top: 40px;
+}
+
+.linee{
+    width: 160px;
+    border: 1px solid #282828;
+    margin-top: 30px;
+}
+.textt{
+margin-top: 30px;
+width: 445px;
+color: #282828;
+font-size: 14px;
+}
+
+.learnmore{
+    margin-top: 51px;
+    background-color: #998431;
+    width: 180px;
+    height: 50px;
+    border: none;
+}
+
+.blockk{
+    width: 445px;
+    height: 228px;
+    border-bottom: none;
+    margin-top: 35px;
+}
+
+.blockk td{
+    color: #282828;
+}
+
+.table1{
+    border-right: 1px solid #282828;
+}
+
+.table2{
+    border-right: 1px solid #282828;
+    border-bottom: 1px solid #282828;
+}
+
+.tabletext{
+    border-bottom: 1px solid #282828;
+}
+
+.blacksection2{
+    width: 1440px;
+    height: 767px;
+    background-color: #282828;
+    margin: 0 auto;
+    position: relative;
+    z-index: -2;
+}
+
+.vhitebox{
+    width: 1140px;
+    height: 538px;
+    border: 3px solid #C4C4C4;
+    position: absolute;
+    top: 129px;
+    left: 150px;
+    position: relative;
+    z-index: -1;
+}
+
+.photo1{
+    position: absolute;
+    top: -80px;
+    left: -30px;
+}
+
+.photo2{
+    position: absolute;
+    top: -65px;
+    right: -60px;
+}
+
+.heading{
+    width: 556px;
+    height: 74px;
+    position: absolute;
+    top: -55px;
+    left: 300px;
+    background-color: #282828;
+    text-align: center;
+}
+
+.heading p{
+    font-size: 36px;
+}
+
+.underline{
+    width: 118px;
+    border: 1px solid #fff;;
+    margin: 0 auto;
+    margin-top: 100px;
+
+
+}
+.boxedcontent{
+    position: absolute;
+    width: 539px;
+    top: 28x;
+    left: 285px;
+}
+
+.textbl > p{
+    text-align: center;
+    font-size: 16px;
+}
+
+.namephone{
+    display: flex;
+    margin-top: 81px;
+    width: 539px;
+}
+
+.underliner{
+    width: 255px;
+    border: 1px solid #fff;;
+    margin-top: 10px;
+}
+
+.underliner1{
+    width: 255px;
+    border: 1px solid #fff;;
+    margin-top: 10px;
+}
+
+.namee{
+    margin-right: 29px;
+}
+.adresunder{
+    width: 539px;
+    border: 1px solid #fff;;
+    margin-top: 10px;
+}
+
+.adress{
+    margin-top: 40px;
+}
+
+
+.buttonregister{
+    border: 1px solid #fff;
+    width: 539px;
+    background-color: #282828;
+    color: #fff;
+    padding: 10px;
+    font-weight: 500;
+    margin-top: 40px;
+}
+
+.footer{
+    height: 220px;
+    width: 1440px;
+    background-color: #998431;
+    position: relative;
+}
+
+.footerbox{
+    width: 1140px;
+    position: absolute;
+    top: 50px;
+    left: 150px;
+}
+
+.footerline{
+    border: 1px solid #fff;
+    width: 1140px;
+    margin-top: 0;
+}
+
+.footermenu{
+    list-style: none;
+    margin-bottom: 19px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 14px;
+}
+
+
+.socialmedia{
+    width: 120px;
+    display: flex;
+    justify-content: space-around;
+    height: 10px;
+}
+
+.img1 img{
+padding-top: 2px;
+}
+
+.undermenu li {
+    border-right: 1px solid #fff;
+}
+
+.undermenu{
+    display: flex;
+    justify-content: space-around; 
+    list-style: none;
+    border: 1px solid #fff;  
+    border-left: none;
+    border-right: none;
+    font-size: 14px;
+}
+
+.undermenu li{
+    border-right: 1px solid #fff;
+    padding: 15px 75px;
+}
+
+.undermenu li:last-child{
+    border-right: none;
+}
+
